@@ -5,8 +5,11 @@ Hi 👋, I'm Tarushi Goel
 💡 About Me
 
 🎓 Computer Science and Engineering student at JIIT Noida (2024–28)
+
 💻 I love building intelligent systems that interact, automate, and improve lives
+
 🔬 Exploring AI agents, Automation, Machine Learning, Ethical Hacking 
+
 🧪 Constantly experimenting with AI, ML, automation ## Hi there 👋
 
 <!--
