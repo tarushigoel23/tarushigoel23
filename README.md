@@ -12,6 +12,13 @@ Hi 👋, I'm Tarushi Goel
 
 🧪 Constantly experimenting with AI, ML, automation 
 
+💡 Interests:
+  Aside from my interest in the field of Computer Science, I am interested in:
+  Writing 
+  Law 
+  Psychology 
+  Forensic Science
+
 
 <!--
 **tarushigoel23/tarushigoel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
