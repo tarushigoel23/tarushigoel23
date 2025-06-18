@@ -15,14 +15,14 @@ Hi 👋, I'm Tarushi Goel
 💡 Interests:
   Aside from my interest in the field of Computer Science, I am interested in:
   
-  Writing 
+    Writing 
   
-  Law 
+    Law 
   
-  Psychology 
+    Psychology 
   
-  Forensic Science
-
+    Forensic Science
+  
 
 <!--
 **tarushigoel23/tarushigoel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
