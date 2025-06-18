@@ -10,7 +10,8 @@ Hi 👋, I'm Tarushi Goel
 
 🔬 Exploring AI agents, Automation, Machine Learning, Ethical Hacking 
 
-🧪 Constantly experimenting with AI, ML, automation ## Hi there 👋
+🧪 Constantly experimenting with AI, ML, automation 
+
 
 <!--
 **tarushigoel23/tarushigoel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
