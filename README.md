@@ -14,9 +14,13 @@ Hi 👋, I'm Tarushi Goel
 
 💡 Interests:
   Aside from my interest in the field of Computer Science, I am interested in:
+  
   Writing 
+  
   Law 
+  
   Psychology 
+  
   Forensic Science
 
 
